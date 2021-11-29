@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-                       _
- _   _  ___  _   _ ___| |__  _   _  ___  ___
-| | | |/ _ \| | | / __| '_ \| | | |/ _ \/ _ \
-| |_| | (_) | |_| \__ \ | | | |_| |  __/  __/
- \__, |\___/ \__,_|___/_| |_|\__, |\___|\___|
- |___/                       |___/
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=youshyee&count_private=true&show_icons=true&theme=dark" />
